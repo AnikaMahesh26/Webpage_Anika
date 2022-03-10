@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "Images"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MuW201 codes"
+	}
+}
